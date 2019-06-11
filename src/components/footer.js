@@ -6,9 +6,7 @@ import Color from './colors'
 
 const FooterWrapper = styled(Row)`
 	display: flex;
-	background-color: navy;
-	background:linear-gradient(45deg,${Color('mint')},${Color('tan')});
-	padding-top: 70px;
+	padding-top: 30px;
 	padding-bottom: 45px;
 	box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
   @media print {
@@ -17,16 +15,16 @@ const FooterWrapper = styled(Row)`
 `;
 
 const FinePrint = styled.div`
-  	
+
 	font-weight: normal;
 	margin-bottom: 35px;
 	font-size: 14px;
 	line-height: 18px;
-	color: white;
+	color: black;
 `;
 
 const StyledLink = styled.a`
-	color: white;
+	color: black;
 `
 
 
