@@ -11,12 +11,7 @@ module.exports = {
         path: `${__dirname}/src/pages`,
         name: 'pages',
       },
-      resolve: 'gatsby-plugin-web-font-loader',
-      options: {
-        google: {
-          families: ['Quattrocento', 'Fanwood Text']
-        }
-      },
+      
     },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
