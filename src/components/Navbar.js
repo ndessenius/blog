@@ -7,7 +7,7 @@ import logo from './images/logo-filled.png'
 const Nav = styled.div`
   position: sticky;
   top: 0;
-  background-color: ${Color('pink')};
+  background-color: ${Color('mint')};
   height: 50px;
   z-index: 10;
   width: 100%;

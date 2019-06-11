@@ -154,7 +154,7 @@ class IndexPage extends React.Component {
                       {title}
                     </PostTitle>
                   </PostLink>
-                  <Author>By {author}</Author>
+                  <Author>Par {author}</Author>
                 </PostMetaTextContainer>
               </MetaContainer>
             </Col>
@@ -168,7 +168,7 @@ class IndexPage extends React.Component {
               <Line color={color}/>
               <Excerpt>{post.excerpt}</Excerpt>
               <KeepReading to={post.fields.slug} color={color}>
-                <h3>Keep Reading →</h3>
+                <h3>Voir Plus →</h3>
               </KeepReading>
               <Spacer height={10}/>
             </Col>
@@ -183,7 +183,7 @@ class IndexPage extends React.Component {
       <div>
         <Head/>
         <BlogTitle>
-          <BlogName>Nicolas Dessenius</BlogName>
+          <BlogName>Hesperis</BlogName>
           <BlogDescription>L’éveil - décence</BlogDescription>
         </BlogTitle>
         {allPosts}
