@@ -183,8 +183,8 @@ class IndexPage extends React.Component {
       <div>
         <Head/>
         <BlogTitle>
-          <BlogName>Bloog.</BlogName>
-          <BlogDescription>A twice-daily dose of the state of my succulents</BlogDescription>
+          <BlogName>Nicolas Dessenius</BlogName>
+          <BlogDescription>L’éveil - décence</BlogDescription>
         </BlogTitle>
         {allPosts}
       </div>

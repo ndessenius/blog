@@ -67,7 +67,7 @@ const Navbar = (props) => {
 
 
 const navLinks = [
-  { label:"Posts", to: "/"},
+  { label:"", to: "/"},
   // { label:"About", to: "/about"}
 ]
 
