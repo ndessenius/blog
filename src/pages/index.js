@@ -6,9 +6,7 @@ import Link from 'gatsby-link'
 import Color from '../components/colors'
 import {Spacer} from '../components/util'
 import Head from '../components/head'
-<style>
-@import url('https://fonts.googleapis.com/css?family=Quattrocento&display=swap');
-</style>
+
 
 const PostMetaTextContainer = styled.div`
   margin-right: 20px;
