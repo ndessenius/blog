@@ -79,10 +79,10 @@ const Head = (props) => (
 
 
 Head.defaultProps = {
-  url: "https://examples.com",
-  title: "Default title for pages",
-  headline: "Default headline for social media",
-  description: "Default description for social media",
+  url: "https://modest-panini-451313.netlify.com/",
+  title: "Nicolas Dessenius - Extraits",
+  headline: "Nicolas Dessenius - Extraits",
+  description: "L’éveil - décence",
   image: "",//-- replace with image link, must be direct link, not relative, since apps like FB will be accessing it
 }
 

@@ -45,8 +45,7 @@ ul {
 }
 
 h1 {
-  font-family: Abril Fatface, Georgia, Times New Roman, slab-serif;
-  /*font-size: 40px;*/
+  font-family: 'Quattrocento', serif;  /*font-size: 40px;*/
   font-weight: 700;
   line-height: 70px;
   font-size: 70px;
@@ -177,5 +176,3 @@ blockquote {
     margin-left: 0;
   }
 }
-
-

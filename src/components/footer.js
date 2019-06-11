@@ -7,7 +7,7 @@ import Color from './colors'
 const FooterWrapper = styled(Row)`
 	display: flex;
 	background-color: navy;
-	background:linear-gradient(45deg,${Color('darkpurple')},${Color('blue')});
+	background:linear-gradient(45deg,${Color('mint')},${Color('tan')});
 	padding-top: 70px;
 	padding-bottom: 45px;
 	box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
@@ -17,6 +17,7 @@ const FooterWrapper = styled(Row)`
 `;
 
 const FinePrint = styled.div`
+  	
 	font-weight: normal;
 	margin-bottom: 35px;
 	font-size: 14px;
@@ -40,7 +41,7 @@ const Footer = () => {
   			lgOffset={1} lg={4}
 			>
 				<FinePrint>
-					This site was built with <StyledLink href="https://github.com/cjimmy/gatsby-netlify-cms-blog">a Gatsby + Netlify CMS starter</StyledLink> by @cjimmy. Please star the repo on Github if you found it useful.
+					Built with Gatsby
 					<br/>
 					All rights reserved &copy;
 				</FinePrint>
