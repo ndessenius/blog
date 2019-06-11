@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Fanwood+Text&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quattrocento&display=swap');
+
+
 body {
   position: relative;
 	font-family: "Georgia", "Times New Roman", Serif;
@@ -61,7 +65,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Roboto Condensed', 'Helvetica Condensed', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Quattrocento', serif;  /*font-size: 40px;*/
   font-weight: 400;
   font-size: 28px;
   line-height: 32px;
@@ -71,7 +75,7 @@ h2 {
   margin-bottom: 0;
 }
 h3 {
-  font-family: 'Roboto Condensed', 'Helvetica Condensed', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Quattrocento', serif;  /*font-size: 40px;*/
   font-weight: 600;
   font-size: 14px;
   line-height: 24px;
@@ -79,7 +83,7 @@ h3 {
 }
 
 h4 {
-	font-family: Roboto, 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Quattrocento', serif;  /*font-size: 40px;*/
 	font-weight: 400;
 	font-size: 13px;
 	line-height: 1.5em;
@@ -88,7 +92,7 @@ h4 {
   margin: 0;
 }
 h5 {
-  font-family: Helvetica Neue, Helvetica, Roboto, sans-serif;
+  font-family: 'Quattrocento', serif;  /*font-size: 40px;*/
   font-weight: bold;
   letter-spacing: -0.1px;
 }
