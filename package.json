@@ -15,7 +15,7 @@
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-remark-images": "^1.5.50",
     "gatsby-source-filesystem": "^1.5.23",
-    "gatsby-transformer-remark": "^1.7.44",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^1.6.27",
     "immutable": "^3.8.2",
     "lodash": "^4.17.5",
